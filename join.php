@@ -10,7 +10,7 @@
             <p>ID: <input type="text" name="id"></p>
             <p>PW: <input type="password" name="pw"></p>
             <p>Email: <input type="text" name="email"></p>
-            <intput type="submit" value="회원가입">
+            <input type="submit" value="회원가입">
             </form>
         </div>
 </body>
